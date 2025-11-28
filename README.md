@@ -20,4 +20,4 @@ An interactive R Shiny dashboard analyzing the [Kaggle Online Sales Dataset](htt
 ### 📂 How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/online-sales-dashboard.git
+   git clone https://github.com/Vikas-2703/online-sales-dashboard.git
